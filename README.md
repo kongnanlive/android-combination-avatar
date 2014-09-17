@@ -18,7 +18,7 @@ Example screenshots
 
 ![二维码 Dimensional Code](https://github.com/kongnanlive/android-combination-avatar/blob/master/download/dimensionalcode.png)
 
-[Download Demo](https://github.com/kongnanlive/android-combination-avatar/blob/master/download/Example-release.apk)
+[Download Demo](https://github.com/kongnanlive/android-combination-avatar/raw/master/download/Example-release.apk)
 
 ###Usage
 ----
