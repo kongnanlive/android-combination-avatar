@@ -35,5 +35,7 @@ dependencies {
 
 我来自孔孟之乡，六年代码生涯，略懂java、flex、php、javascript、html5、android等开发语言，热爱移动互联，目前从事Android开发
 
-### End
+## License
+Copyright (c) 2014 [Kong Nan](http://weibo.com/kongnan)
 
+Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
