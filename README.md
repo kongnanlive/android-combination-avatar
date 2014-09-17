@@ -16,7 +16,7 @@ Example screenshots
 
 ![alt tag](https://github.com/kongnanlive/android-combination-avatar/blob/master/screenshots/screenshot2.jpg)
 
-![二维码 Dimensional Code](https://raw.githubusercontent.com/kongnanlive/PreferenceFragment/master/download/dimensionalcode.png)
+![二维码 Dimensional Code](https://github.com/kongnanlive/android-combination-avatar/blob/master/download/dimensionalcode.png)
 
 [Download Demo](https://github.com/kongnanlive/android-combination-avatar/blob/master/download/Example-release.apk)
 
