@@ -1,4 +1,8 @@
-apply plugin: 'android'
+apply plugin: 'com.android.application'
+
+repositories {
+    mavenCentral()
+}
 
 dependencies {
     compile fileTree(dir: 'libs', include: '*.jar')
