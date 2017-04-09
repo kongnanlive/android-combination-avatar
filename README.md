@@ -39,3 +39,9 @@ dependencies {
 Copyright (c) 2014 [Kong Nan](http://weibo.com/kongnan)
 
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+
+## Update 2017-04-09
+ 各有优缺点，你可以视情况选用或组合    
+ [https://github.com/YiiGuxing/CompositionAvatar](https://github.com/YiiGuxing/CompositionAvatar)
+
